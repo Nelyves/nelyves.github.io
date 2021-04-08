@@ -10,7 +10,7 @@ nav {
 
 .secondary-block {
     color: rgb(255, 255, 255);
-    background-color: rgb(4,117,186);
+    background-color: rgb(4, 186, 86);
     float: center;
 }
 
@@ -67,7 +67,7 @@ section {
 #xp ul {
     margin: 0px;
     padding: 0px;
-    list-style: none;
+
 }
 
 #education ul {
