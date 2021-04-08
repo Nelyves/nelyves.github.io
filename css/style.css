@@ -10,12 +10,13 @@ nav {
 
 .secondary-block {
     color: rgb(255, 255, 255);
-    background-color: rgb(4, 186, 86);
-    float: center;
+    background-color: rgb(2, 17, 148);
+   
 }
 
 a {
     color: white;
+    float: center;
 }
 
 nav h2  {
