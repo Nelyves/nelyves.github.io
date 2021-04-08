@@ -11,6 +11,7 @@ nav {
 .secondary-block {
     color: rgb(255, 255, 255);
     background-color: rgb(4,117,186);
+    float: center;
 }
 
 a {
@@ -80,6 +81,10 @@ section {
   
   #xp aside {
     float: right;
+  }
+
+  #education aside {
+      float: right;
   }
 
   footer {
